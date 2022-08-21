@@ -36,6 +36,10 @@
 
 ### 5. Save lai file private key duoi duoi .ppk
 
-### 6. Tai PuTTyGen ve de Import key vua save với duoi .ppk >>> save lai
+### 6. Tai PuTTyGen ve de Import key vua save với duoi .ppk >>> save lai lan nua
 
+### 7. Truy cap PUTTY >>> SSH >>> AUTH de Browse den file PRIVATE KEY vua SAVE
 
+### 8. Vao muc Session cua PUTTY nhap Hostname và Port SSH 2022, nhap ten Session roi bam SAVE lai
+
+### 9. Truy cap bang PUTTY 
