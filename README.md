@@ -11,3 +11,13 @@
 4. Restart service SSH 
 
 * systemctl restart ssh
+
+---
+
+## II. SSH BANG KEY GEN
+
+1. Tao key SSH
+
+* ssh-keygen
+
+2. 
