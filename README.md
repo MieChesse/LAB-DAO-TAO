@@ -16,11 +16,11 @@
 
 ## II. SSH BANG KEY GEN
 
-1. Tao key SSH
+1. Tao key SSH[^1]
 
 * ssh-keygen
-[^note]:
-	  Your identification has been saved in /home/haph/.ssh/id_rsa
-    Your public key has been saved in /home/haph/.ssh/id_rsa.pub
+[^1]:
+	Your identification has been saved in /home/haph/.ssh/id_rsa
+	Your public key has been saved in /home/haph/.ssh/id_rsa.pub
 
 2. 
