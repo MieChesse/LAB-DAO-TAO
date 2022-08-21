@@ -36,4 +36,6 @@
 
 ### 5. Save lai file private key duoi duoi .ppk
 
-### 6. Tải PuTTyGen về để Import key vừa save với đuôi .ppk >>> save lại
+### 6. Tai PuTTyGen ve de Import key vua save với duoi .ppk >>> save lai
+
+
