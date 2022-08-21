@@ -2,7 +2,7 @@
 
 ## I. DOI PORT SSH THANH PORT 2022
 
-1. Truy cap vao file sshd_config
+### 1. Truy cap vao file sshd_config
 
 * vi etc/sshd/sshd_config
 
@@ -20,6 +20,14 @@
 
 * ssh-keygen
 [^1]:
-	Private key nam trong thu muc /home/haph/.ssh/id_rsa / Public key nam trong thu muc /home/haph/.ssh/id_rsa.pub
+	Private key nam trong thu muc /home/root/.ssh/id_rsa / Public key nam trong thu muc /home/root/.ssh/id_rsa.pub
 
-2. 
+2. Copy file SSH KEY vua tao vao server
+
+* ssh-copy-id -p 2022 user@remote_host
+
+3. Kiem tra lai ket noi SSH
+
+* ssh username@remote_host
+
+4. 
