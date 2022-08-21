@@ -30,4 +30,10 @@
 
 * ssh username@remote_host
 
-### 4. 
+### 4. Truy cap vao thu muc /home/root/.ssh/id_rsa de COPY private key
+
+* vi .ssh/id_rsa
+
+### 5. Save lai file private key duoi duoi .ppk
+
+### 6. Tải PuTTyGen về để Import key vừa save với đuôi .ppk >>> save lại
