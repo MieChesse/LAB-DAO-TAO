@@ -7,4 +7,7 @@
 * vi etc/sshd/sshd_config
 
 2. Doi dong #Port 22 thanh Port 2022 >>> SAVE FILE
-3. Restart service SSH >>> systemctl restart ssh
+
+4. Restart service SSH 
+
+* systemctl restart ssh
