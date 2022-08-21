@@ -105,7 +105,7 @@ Tham khao them o bai viet [https://www.cyberciti.biz/faq/how-to-configure-firewa
 
 ***
 
-# V. Set Timezone
+## V. Set Timezone
 
 **Xem timezone hien tai**
 
@@ -115,9 +115,15 @@ Tham khao them o bai viet [https://www.cyberciti.biz/faq/how-to-configure-firewa
 
 - timedatectl list-timezones
 
-**Set time zone da tim""
+**Set time zone da tim**
 
 - timedatectl set-timezone your_time_zone
 
+***
 
+## VI. Install CWP
+
+- cd /usr/local/src
+- wget http://centos-webpanel.com/cwp-el7-latest
+- sh cwp-el7-latest
 
