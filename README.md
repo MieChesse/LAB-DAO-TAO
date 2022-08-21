@@ -20,7 +20,6 @@
 
 * ssh-keygen
 [^1]:
-	Your identification has been saved in /home/haph/.ssh/id_rsa
-	Your public key has been saved in /home/haph/.ssh/id_rsa.pub
+	Private key nam trong thu muc /home/haph/.ssh/id_rsa / Public key nam trong thu muc /home/haph/.ssh/id_rsa.pub
 
 2. 
